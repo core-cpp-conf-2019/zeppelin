@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Core C++ Conference 2019"
+title: "Core C++ 2019"
 email: "info@corecpp.org"
-description: "Core C++ Conference 2019"
-baseurl: "/"
+description: "Core C++ 2019"
+baseurl: ""
 url: "https://corecpp.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "B&D6mon!"
@@ -22,15 +22,16 @@ siteVerification: ""
 
 # Organizer Info
 organizerName: "Core C++"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "The Core C++ 2019 International Conference"
+organizerDescription: "The Core C++ Users Group."
 organizerEmail: "info@corecpp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://corecpp.org/"
 
 # Head
-metaKeywords: "event, C++, conference, programming, chro, developers, lectures, Israel, speakers"
+metaKeywords: "event, C++, conference, programming, developers, lectures, Israel, speakers"
 twitterAccount: "@corecpp"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -42,6 +43,12 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "mailto:info@corecpp.org", text: "Become a speaker"}
 rightNavigationButtons:
@@ -167,9 +174,9 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=corecpp", icon: "twitter"}
+ - {link: "https://facebook.com/corecpp", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
