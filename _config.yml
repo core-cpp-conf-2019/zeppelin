@@ -90,7 +90,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "The Academic College of Tel Aviv-Yaffo"
+eventLocationName: "The Tel-Aviv Yaffo Academic College" 
 eventLocationLink: "https://www.int.mta.ac.il/"
 eventStreetAddress: "Rabenu Yeruham St."
 eventAddressLocality: "Tel-Aviv"
@@ -110,8 +110,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "The Academic College of Tel Aviv–Yaffo"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Tel-Aviv Yaffo Academic College"
+venueFeatures: ["Located in the heart of Tel-Aviv and Jaffa"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
