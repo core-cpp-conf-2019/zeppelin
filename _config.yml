@@ -132,44 +132,45 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference content."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  name: "Early Bird 2-Day Conference"
+  price: "850"
+  priceCurrency: "ILS"
   ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: "-200ILS"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://bit.ly/cpp2019contact"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validFrom: "2018-11-01T10:00"
+  validThrough: "2019-01-31T23:59"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "2-Day Conference"
+  price: "1050"
+  priceCurrency: "ILS"
+  ticketsNumber: "150"
+  ribbon: ""
+  featured: true
+  buyButtonLink: "https://bit.ly/cpp2019contact"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-02-01T00:00"
+  validThrough: "2019-05-14T23:59"
+  disabled: false
+ -
+  name: "1-Day Class"
+  price: "1350"
+  priceCurrency: "ILS"
+  ticketsNumber: "60"
+  buyButtonLink: "https://bit.ly/cpp2019contact"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
+  validFrom: "2018-11-01T10:00"
+  validThrough: "2019-05-13T23:59"
+  soldOut: false
   soldOutText: "Sold Out"
 
 # Footer
