@@ -16,7 +16,7 @@ description: "Core C++ 2019"
 baseurl: ""
 url: "https://corecpp.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "B&D6mon!"
+googleAnalyticsTrackingId: "UA-128126696-1"
 googleAnalyticsSiteUrl: "corecpp.org"
 siteVerification: ""
 
