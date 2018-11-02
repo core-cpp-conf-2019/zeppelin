@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="105.46108"
+   height="17"
+   viewBox="0 0 105.46108 17"
+   enable-background="new 0 0 185 188"
+   xml:space="preserve"
+   sodipodi:docname="haifa-cpp_text.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="c:\Users\adish\Work\Fun\CoreC++\zeppelin\img\seo\logo.png"
+   inkscape:export-xdpi="477.92676"
+   inkscape:export-ydpi="477.92676"><metadata
+   id="metadata235"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs233">
+	
+	
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="20.113701"
+   cy="-60.055"
+   cx="-310.58301"
+   id="SVGID_1_">
+		<stop
+   id="stop48"
+   style="stop-color:#FFCF4F"
+   offset="0" />
+		<stop
+   id="stop50"
+   style="stop-color:#F4C236"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="27.658199"
+   cy="-70.269501"
+   cx="-322.6347"
+   id="SVGID_2_">
+		<stop
+   id="stop55"
+   style="stop-color:#08A960"
+   offset="0" />
+		<stop
+   id="stop57"
+   style="stop-color:#07914B"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="40.540001"
+   cy="-109.9511"
+   cx="-313.18311"
+   id="SVGID_3_">
+		<stop
+   id="stop62"
+   style="stop-color:#567FC0"
+   offset="0" />
+		<stop
+   id="stop64"
+   style="stop-color:#557FC0"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="33.058399"
+   cy="-119.9164"
+   cx="-301.11911"
+   id="SVGID_4_">
+		<stop
+   id="stop69"
+   style="stop-color:#E14C40"
+   offset="0" />
+		<stop
+   id="stop71"
+   style="stop-color:#CD392D"
+   offset="1" />
+	</radialGradient>
+	
+<filter
+   style="color-interpolation-filters:sRGB"
+   inkscape:label="Greyscale"
+   id="filter4319"><feColorMatrix
+     values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+     id="feColorMatrix4317" /></filter>
+	
+	
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="20.113701"
+   cy="66.4552"
+   cx="-310.58301"
+   id="SVGID_5_">
+		<stop
+   id="stop124"
+   style="stop-color:#CCCCCC"
+   offset="0" />
+		<stop
+   id="stop126"
+   style="stop-color:#C0C0C0"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="27.658199"
+   cy="56.2407"
+   cx="-322.6347"
+   id="SVGID_6_">
+		<stop
+   id="stop131"
+   style="stop-color:#A0A0A0"
+   offset="0" />
+		<stop
+   id="stop133"
+   style="stop-color:#7B7B7B"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="40.540001"
+   cy="16.559"
+   cx="-313.18311"
+   id="SVGID_7_">
+		<stop
+   id="stop138"
+   style="stop-color:#848484"
+   offset="0" />
+		<stop
+   id="stop140"
+   style="stop-color:#838383"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="33.058399"
+   cy="6.5938001"
+   cx="-301.11911"
+   id="SVGID_8_">
+		<stop
+   id="stop145"
+   style="stop-color:#626262"
+   offset="0" />
+		<stop
+   id="stop147"
+   style="stop-color:#474747"
+   offset="1" />
+	</radialGradient>
+	
+
+	
+	
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="20.113701"
+   cy="192.9653"
+   cx="-310.26501"
+   id="SVGID_9_">
+		<stop
+   id="stop200"
+   style="stop-color:#FFCF4F"
+   offset="0" />
+		<stop
+   id="stop202"
+   style="stop-color:#F4C236"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="27.658199"
+   cy="182.75079"
+   cx="-322.31671"
+   id="SVGID_10_">
+		<stop
+   id="stop207"
+   style="stop-color:#08A960"
+   offset="0" />
+		<stop
+   id="stop209"
+   style="stop-color:#07914B"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="40.540001"
+   cy="143.06911"
+   cx="-312.86511"
+   id="SVGID_11_">
+		<stop
+   id="stop214"
+   style="stop-color:#567FC0"
+   offset="0" />
+		<stop
+   id="stop216"
+   style="stop-color:#557FC0"
+   offset="1" />
+	</radialGradient>
+	
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
+   r="33.058399"
+   cy="133.1039"
+   cx="-300.80109"
+   id="SVGID_12_">
+		<stop
+   id="stop221"
+   style="stop-color:#E14C40"
+   offset="0" />
+		<stop
+   id="stop223"
+   style="stop-color:#CD392D"
+   offset="1" />
+	</radialGradient>
+	
+
+
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1137"
+   id="namedview231"
+   showgrid="false"
+   inkscape:zoom="2.6167882"
+   inkscape:cx="-91.668536"
+   inkscape:cy="-32.863576"
+   inkscape:window-x="-8"
+   inkscape:window-y="311"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+<text
+   id="text112"
+   y="1.7670265"
+   x="32.090885"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.61477089px;line-height:125%;font-family:'WLM Idea';-inkscape-font-specification:'WLM Idea';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:0.71536922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan108"
+     style="letter-spacing:-1.29999995px;fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     y="27.121119"
+     x="32.090885"
+     sodipodi:role="line" /><tspan
+     id="tspan110"
+     style="fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     y="62.88958"
+     x="32.090885"
+     sodipodi:role="line" /></text>
+
+
+<g
+   id="g133"
+   transform="matrix(0.8095238,0,0,0.8095238,-60.17535,25.202208)"><text
+   id="text94"
+   y="23.772146"
+   x="73.691544"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.61477089px;line-height:125%;font-family:'WLM Idea';-inkscape-font-specification:'WLM Idea';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:0.71536922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan100"
+     style="letter-spacing:-1.29999995px;fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     y="49.126236"
+     x="73.691544"
+     sodipodi:role="line" /><tspan
+     id="tspan96"
+     style="fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     y="84.894699"
+     x="73.691544"
+     sodipodi:role="line" /></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.61477089px;line-height:125%;font-family:'WLM Idea';-inkscape-font-specification:'WLM Idea';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:0.71536922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="73.048828"
+   y="-10.621161"
+   id="text122"><tspan
+     sodipodi:role="line"
+     x="73.048828"
+     y="-10.621161"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';letter-spacing:0px;fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     id="tspan118">Haifa::C++</tspan><tspan
+     sodipodi:role="line"
+     x="73.048828"
+     y="25.147303"
+     style="fill:#4e4e4e;fill-opacity:1;stroke-width:0.71536922px"
+     id="tspan120" /></text>
+
+
+</g></svg>

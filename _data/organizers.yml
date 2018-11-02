@@ -1,10 +1,9 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Core C++", description: "The Core C++ Users Group", link: "https://corecppil.github.io/Meetups/", imageUrl: "core-c++-ug.svg"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Haifa::C++", description: "The Haifa::C++ Users Group", link: "https://www.meetup.com/haifa-cpp/", imageUrl: "haifa-cpp.svg"}
+    - {name: "The Academic College of Tel Aviv-Yaffo", description: "A pioneering non-for-profit and fully accredited academic public institution", link: "https://www.int.mta.ac.il/", imageUrl: "MTA_logo_eng_cropped.png"}
