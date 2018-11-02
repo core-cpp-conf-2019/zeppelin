@@ -185,13 +185,15 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://www.meetup.com/CoreCpp", text: "Core C++ Users Group"}
-#   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.meetup.com/haifa-cpp", text: "Haifa::C++ Users Group"}
+   - {link: "https://www.int.mta.ac.il/", text: "The Academic College of Tel Aviv-Yaffo"}
+
  -
   title: "Contacts"
   links:
    - {link: "mailto:info@corecpp.org", text: "info@corecpp.org"}
  -
-  title: "FAQ"
+  title: "Code of Conduct"
   links:
    - {permalink: "https://berlincodeofconduct.org/", text: "Berlin Code of Conduct"}
 
