@@ -132,44 +132,41 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference content."
+ticketsInfo: "Prices do not include VAT where applicable."
 ticketsOffers:
  -
-  name: "Early Bird 2-Day Conference"
-  price: "850"
-  priceCurrency: "ILS"
-  ticketsNumber: "150"
-  ribbon: "-200ILS"
-  featured: true
-  buyButtonLink: "https://bit.ly/cpp2019contact"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-11-01T10:00"
-  validThrough: "2019-01-31T23:59"
- -
-  name: "2-Day Conference"
+  name: "Regular Ticket"
   price: "1050"
   priceCurrency: "ILS"
   ticketsNumber: "150"
-  ribbon: ""
+  buyButtonLink: "https://bit.ly/cpp2019contact"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Two day conference", "Two parallel tracks", "Versatile technical content"]
+  validFrom: "2019-02-01"
+  validThrough: "2019-05-14"
+  disabled: true
+ -
+  name: "Early-Bird Ticket"
+  price: "850"
+  priceCurrency: "ILS"
+  ticketsNumber: "150"
+  ribbon: "-20%"
   featured: true
   buyButtonLink: "https://bit.ly/cpp2019contact"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-02-01T00:00"
-  validThrough: "2019-05-14T23:59"
-  disabled: false
+  ticketContentList: ["Two day conference", "Two parallel tracks", "Versatile technical content"]
+  validFrom: "2018-11-01"
+  validThrough: "2019-01-31"
  -
-  name: "1-Day Class"
+  name: "Training"
   price: "1350"
   priceCurrency: "ILS"
   ticketsNumber: "60"
   buyButtonLink: "https://bit.ly/cpp2019contact"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-11-01T10:00"
-  validThrough: "2019-05-13T23:59"
+  ticketContentList: ["Full day training", "Pre-conference worshop", "Top C++ trainers"]
+  validFrom: "2018-11-01"
+  validThrough: "2019-05-13"
   soldOut: false
   soldOutText: "Sold Out"
 
