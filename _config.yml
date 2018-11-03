@@ -23,7 +23,7 @@ siteVerification: ""
 # Organizer Info
 organizerName: "Core C++"
 organizerAlternateName: "The Core C++ 2019 International Conference"
-organizerDescription: "The Core C++ Users Group."
+organizerDescription: "The Core C++ User Group."
 organizerEmail: "info@corecpp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://corecpp.org/"
@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Core C++ 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The first C++ conference in Israel! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The first C++ conference in Israel brought to you by The Core C++ User Group! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite C++ feature!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Want some real team and skill building? Grab your team and join our hackathon!" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Want some real team and skill building? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -181,8 +181,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.meetup.com/CoreCpp", text: "Core C++ Users Group"}
-   - {link: "https://www.meetup.com/haifa-cpp", text: "Haifa::C++ Users Group"}
+   - {link: "https://www.meetup.com/CoreCpp", text: "Core C++ User Group"}
+   - {link: "https://www.meetup.com/haifa-cpp", text: "Haifa::C++ User Group"}
    - {link: "https://www.int.mta.ac.il/", text: "The Academic College of Tel Aviv-Yaffo"}
 
  -
