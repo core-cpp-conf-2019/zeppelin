@@ -51,8 +51,10 @@ navigationLinks:
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/cpp2019", text: "Become a speaker"}
+ - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "http://bit.ly/cpp2019", text: "Become a speaker"}
+ - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
