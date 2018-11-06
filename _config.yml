@@ -43,10 +43,10 @@ c4sponsorsUrl: "/assets/CoreCpp2019_CallForSponsors.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+# - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -206,7 +206,10 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The Core C++ conference is a non-for-profit, community-based and community-facing event. It's organized by Core C++ and Haifa::C++ user groups, and by enthusiasts from the local and global C++ community."
+aboutUs: "The Core C++ conference is a non-for-profit, community-based and community-facing event.
+          It is organized by The Core C++ and Haifa::C++ user groups, and by enthusiasts from the local and global C++ community.
+          Our goal is to bring high quality content, great speakers and a fantastic community building experience to C++ developers in Israel 
+          and to promote software quality using the latest best practices, tools and languages features."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

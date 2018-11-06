@@ -3,7 +3,9 @@
   name: "Michael"
   surname: "Gopshtein"
   thumbnailUrl: MichaelGopshtein.jpg
+  title: "Core C++"
   team: true
+#  subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/michael_gop"}
     - {name: "site", link: "https://migocpp.wordpress.com/"}
@@ -11,20 +13,26 @@
   id: 3
   name: "Eran"
   surname: "Gilad"
+  title: "Haifa::C++"
   thumbnailUrl: EranGilad.jpg
   team: true
+#  subTeam: true
 -
   id: 2
   name: "Amir"
   surname: "Kirsh"
   thumbnailUrl: AmirKirsh.jpg
+  title: "TLV-Yaffo Academic College"
   team: true
+#  subTeam: true
 - 
   id: 0
   name: "Adi"
   surname: "Shavit"
   thumbnailUrl: AdiShavit.jpg
   team: true
+#  subTeam: true
+  title: "Core C++"
   social: 
     - {name: "twitter", link: "https://twitter.com/AdiShavit"}
     - {name: "site", link: "http://videocortex.io/"}
@@ -32,6 +40,7 @@
   id: 5
   name: "Ruth"
   surname: "Boneh"
+  title: "Advisor"
   thumbnailUrl: RuthBoneh.jpg
   team: true
 - 
@@ -39,6 +48,8 @@
   name: "Bryce"
   surname: "Adelstein Lelbach"
   thumbnailUrl: BryceAdelsteinLelbach.jpg
+  title: "Program Commitee Chair"
   social:
     - {name: "twitter", link: "https://twitter.com/blelbach"}
   team: true
+ # subTeam: true
