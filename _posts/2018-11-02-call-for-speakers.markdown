@@ -3,6 +3,7 @@ layout: post
 title:  "Call For Speakers"
 date:   2018-11-02 08:00:00
 isStaticPost: false
+image: post_0.jpg
 ---
 
 The Call for Speakers for **Core C++ 2019** is now open, [submit yours now](https://byt.li/cpp2019)!   

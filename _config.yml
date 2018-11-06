@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/CoreCpp2019_CallForSponsors.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-   # - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -82,7 +82,7 @@ statisticBlock:
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -197,7 +197,7 @@ footerBlocks:
    - {permalink: "https://berlincodeofconduct.org/", text: "Berlin Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Latest News"
 blogCommentsEnabled: false
 discusShortName: "devfestua"
 
