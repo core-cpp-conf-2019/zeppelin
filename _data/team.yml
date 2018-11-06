@@ -46,9 +46,9 @@
 - 
   id: 4
   name: "Bryce"
-  surname: "Adelstein Lelbach"
+  surname: "Lelbach"
   thumbnailUrl: BryceAdelsteinLelbach.jpg
-  title: "Program Commitee Chair"
+  title: "Program Committee Chair"
   social:
     - {name: "twitter", link: "https://twitter.com/blelbach"}
   team: true
