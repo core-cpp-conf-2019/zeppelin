@@ -9,6 +9,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/michael_gop"}
     - {name: "site", link: "https://migocpp.wordpress.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mgopshtein"}
 -
   id: 3
   name: "Eran"
@@ -16,7 +17,9 @@
   title: "Haifa::C++"
   thumbnailUrl: EranGilad.jpg
   team: true
-#  subTeam: true
+#  subTeam: truei
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eran-gilad-064b583"}
 -
   id: 2
   name: "Amir"
