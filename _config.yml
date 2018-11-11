@@ -50,11 +50,11 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/cpp2019", text: "Become a speaker"}
- - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a sponsor"}
+ - {link: "http://bit.ly/cpp2019", text: "Become a Speaker"}
+ - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "http://bit.ly/cpp2019", text: "Become a speaker"}
- - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a sponsor"}
+ - {link: "http://bit.ly/cpp2019", text: "Become a Speaker"}
+ - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a Sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,8 +63,9 @@ eventDate: "May 14-17, 2019"
 typeoutTextValues: '"", "Conference", "Tel-Aviv", "Jaffa", "Spring", "Israel"'
 typeoutFallback: "Conference"
 heroButtons:
- - {link: "http://bit.ly/cpp2019", text: "Become a speaker"}
+ - {link: "http://bit.ly/cpp2019", text: "Become a Speaker"}
  - {link: "http://bit.ly/cpp2019contact", text: "Register"}
+ - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Sponsor Us"}
 
 # About Block
 aboutTitle: "About Core C++ 2019"
