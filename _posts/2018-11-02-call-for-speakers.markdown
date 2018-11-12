@@ -6,7 +6,7 @@ isStaticPost: false
 image: post_0.jpg
 ---
 
-The Call for Speakers for **Core C++ 2019** is now open, [submit yours now](https://byt.li/cpp2019)!   
+The Call for Speakers for **Core C++ 2019** is now open, [submit yours now](https://bit.ly/cpp2019)!   
 
 **Submission Deadline** is **Jan. 15th 2019**.
 
