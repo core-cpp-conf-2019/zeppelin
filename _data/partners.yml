@@ -1,8 +1,14 @@
 - 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "JetBrains", description: "JetBrains is a technology-leading software development firm specializing in the creation of intelligent, productivity-enhancing software.", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
+    - {name: "JFrog", description: "JFrog offers an end-to-end solution covering the full lifecycle of your Conan C/C++ packages to manage development, artifact flow control and distribution.", link: "http://lviv.gdg.org.ua", imageUrl: "jfrog_conan_logo.png", imageUrl: "jfrog_conan_logo.2.png"}
+- 
   group: "Community Sponsors"
   elements: 
     - {name: "#include <C++>", description: "#include<C++> is a global, inclusive, and diverse community for developers interested in C++.", link: "https://www.includecpp.org/", imageUrl: "includecpp.svg"}
-
+    - {name: "SwedenCpp", description: "The Swedish C++ User Groups", link: "https://www.swedencpp.se", imageUrl: "SwedenCppOfficial.png"}        
+    - {name: "C++ on Sea", description: "C++ on Sea is a new international C++ conference taking place in Folkestone, Kent, UK from 4th-6th February 2019.", link: "https://cpponsea.uk", imageUrl: "cpponsea-logo-text.svg"}
 #- 
 #  group: "General sponsor"
 #  elements: 
