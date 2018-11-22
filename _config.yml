@@ -85,6 +85,9 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest News"
 
+# Topics Block
+topicsTitle: "Suggested Topics"
+
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
