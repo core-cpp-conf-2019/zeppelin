@@ -5,12 +5,7 @@
     - {name: "Core C++", description: "The Core C++ Users Group", link: "https://corecppil.github.io/Meetups/", imageUrl: "core-c++-ug.svg"}
     - {name: "The Academic College of Tel Aviv-Yaffo", description: "A pioneering non-for-profit and fully accredited academic public institution", link: "https://www.int.mta.ac.il/", imageUrl: "MTA_logo_eng_cropped.png"}
 
-#- 
-#  group: "Organizer"
-#  elements: 
-#    - {name: "Core C++", description: "The Core C++ Users Group", link: "https://corecppil.github.io/Meetups/", imageUrl: "core-c++-ug.svg"}
-#- 
-#  group: "Co-organizers"
-#  elements: 
-#    - {name: "Haifa::C++", description: "The Haifa::C++ Users Group", link: "https://www.meetup.com/haifa-cpp/", imageUrl: "haifa-cpp.svg"}
-#    - {name: "The Academic College of Tel Aviv-Yaffo", description: "A pioneering non-for-profit and fully accredited academic public institution", link: "https://www.int.mta.ac.il/", imageUrl: "MTA_logo_eng_cropped.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "Hamakor", description: "The Israeli Society for Free Software and Open-Source Code", link: "https://www.hamakor.org.il/", imageUrl: "Hamakor_logo.png"}
