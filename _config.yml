@@ -143,7 +143,6 @@ ticketsOffers:
  -
   name: "Regular 1-Day Ticket"
   price: "550"
-  featured: false
   priceCurrency: "ILS"
   ticketsNumber: "50"
   buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
