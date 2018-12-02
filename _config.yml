@@ -64,7 +64,7 @@ typeoutTextValues: '"", "Conference", "Tel-Aviv", "Jaffa", "Spring", "Israel"'
 typeoutFallback: "Conference"
 heroButtons:
  - {link: "http://bit.ly/cpp2019", text: "Become a Speaker"}
- - {link: "http://bit.ly/cpp2019contact", text: "Register"}
+ - {link: "https://ti.to/hamakor/core-cpp-2019", text: "Tickets"}
  - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Sponsor Us"}
 
 # About Block
@@ -138,38 +138,39 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Prices do not include VAT where applicable."
+ticketsInfo: "0% VAT."
 ticketsOffers:
  -
-  name: "Regular Ticket"
-  price: "1050"
+  name: "Regular 1-Day Ticket"
+  price: "550"
+  featured: false
   priceCurrency: "ILS"
-  ticketsNumber: "150"
-  buyButtonLink: "https://bit.ly/cpp2019contact"
+  ticketsNumber: "50"
+  buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Two day conference", "Two parallel tracks", "Versatile technical content"]
-  validFrom: "2019-02-01"
+  ticketContentList: ["Two parallel tracks", "Keynote", "All technical sessions"]
+  validFrom: "2019-11-01"
   validThrough: "2019-05-14"
-  disabled: true
  -
-  name: "Early-Bird Ticket"
+  name: "Early-Bird 2-Days Ticket"
   price: "850"
   priceCurrency: "ILS"
-  ticketsNumber: "150"
+  ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://bit.ly/cpp2019contact"
+  buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Two day conference", "Two parallel tracks", "Versatile technical content"]
+  ticketContentList: ["Two day conference", "Two parallel tracks", "Friday activities"]
   validFrom: "2018-11-01"
   validThrough: "2019-01-31"
  -
   name: "Training"
   price: "1350"
+  ribbon: "SOON"
   priceCurrency: "ILS"
   ticketsNumber: "60"
   buyButtonLink: "https://bit.ly/cpp2019contact"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Register"
   ticketContentList: ["Full day training", "Pre-conference worshop", "Top C++ trainers"]
   validFrom: "2018-11-01"
   validThrough: "2019-05-13"
