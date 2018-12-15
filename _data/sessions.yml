@@ -1,7 +1,13 @@
 -
   id: 002
-  title: "Training"
-  description: "Full day of advanced C++ training"
+  title: "Accelerated TDD: For More Productive C++"
+  description: "<p>We all know that writing tests for our code is “what we should do”, and maybe we’re even doing that already. But it feels like extra busy-work that slows us down – and they hardly ever catch any bugs anyway, right? …</p>
+  <p>Maybe we’ve even tried TDD, and felt that it was just adding even more ceremony to the problem with no real advantages.</p>
+  <p>But the advantages are definitely there. When done properly and appropriately a TDD approach can greatly accelerate your ability to produce code that solves the right problems faster - and more correctly! We just need a good grounding in what TDD _actually_ is (and isn’t) and how to do it properly – especially in the context of C++, which brings it’s own idiosyncrasies and bottlenecks to the matter.</p>  
+  <p>That’s what this workshop aims to be. Whether you’ve never written a test before, or you’ve had some mileage with TDD already, be prepared to ratchet up your productivity by thinking about things in new ways and gaining more approaches to breaking down problems in sustainable ways.</p>"
+  subtype: workshop
+  speakers: [10]
+  language: en
 -
   id: 003
   title: "Keynote 1"
