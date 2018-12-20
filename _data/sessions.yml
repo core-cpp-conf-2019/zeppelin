@@ -1,5 +1,5 @@
 -
-  id: 002
+  id: 012
   title: "Accelerated TDD: For More Productive C++"
   description: "<p>We all know that writing tests for our code is “what we should do”, and maybe we’re even doing that already. But it feels like extra busy-work that slows us down – and they hardly ever catch any bugs anyway, right? …</p>
   <p>Maybe we’ve even tried TDD, and felt that it was just adding even more ceremony to the problem with no real advantages.</p>
@@ -8,6 +8,44 @@
   subtype: workshop
   speakers: [10]
   language: en
+-
+  id: 013
+  title: "Understand Object Lifetime"
+  description: "<p>C++ has something very few other languages have: a well defined object life cycle. Understanding this key aspect of C++ is critical to writing clean, maintainable, and efficient C++.</p>
+  <p>Anyone who is a beginner or intermediate C++ programmer will gain a much better understanding of how the compiler treats objects and what behavior we can rely on. We will study and discuss many examples as a class in a group discussion.</p>
+  <p>We will cover:</p>
+  <ul>
+    <li>Understanding RAII</li>
+    <li>What does the standard say?</li>
+    <li>Member variable lifecycle</li>
+    <li>How and why to limit variable scope</li>
+    <li>The as-if rule</li>
+    <li>std::move and std::forward</li>
+    <li>Passing values</li>
+    <li>Returning values</li>
+    <li>Lifecycle of lambda captures</li>
+    <li>How the C++ memory model and object lifetime relate</li>
+    <li>Gotchas</li>
+    <li>A note about runtime polymorphism</li>
+    <li>What changes in C++17</li>
+  </ul>"
+  subtype: workshop
+  speakers: [11]
+  language: en
+- id: 014
+  title: "C++ Best Practices Revisited: better code, better work-life balance"
+  description: "<p>In this training we would deal with the following:</p>
+  <ul>
+    <li>What makes C++ code better or worse: between personal taste and plain bad coding and design</li>
+    <li>How to write better code<li>
+    <li>When and how to perform refactoring</li>
+    <li>how to perform effective code reviews, what to look for and how</li>
+  </ul>
+  <p>The training would be focused on C++ in general, but would include a look into the features of C++11 to C++17 and the proper usage of those. It will also include some actual practice on real C++ code. Attendees would gain better view on writing maintainable long living C++ code.</p>
+  <p>The training would cover both the nitty gritty bits and bytes of the language and the bigger design issues like how to identify that your if-else should become a state-machine, actor model vs. data model and concurrency design.</p>" 
+  subtype: workshop
+  speakers: [12]
+  language: he
 -
   id: 003
   title: "Keynote 1"
