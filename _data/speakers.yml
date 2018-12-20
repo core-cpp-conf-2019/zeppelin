@@ -29,7 +29,7 @@
    name: "Amir"
    surname: "Kirsh"
    company: "Academic College of Tel-Aviv-Yaffo"
-   bio: "C++ lecturer at the Academic College of Tel-Aviv-Yaffo and Tel-Aviv University. Former Chief Programmer at Comverse."
+   bio: "C++ lecturer at the Academic College of Tel-Aviv-Yaffo and at Tel-Aviv University. Previously the Chief Programmer at Comverse. Expert in C++, software design and development in general. The author of a known C++ book in Hebrew that you may have on your shelf."
    thumbnailUrl: AmirKirsh.jpg
    rockstar: true
    ribbon:
