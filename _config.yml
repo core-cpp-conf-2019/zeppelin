@@ -165,11 +165,11 @@ ticketsOffers:
  -
   name: "Training"
   price: "1350"
-  ribbon: "SOON"
+  ribbon: "LIMITED"
   priceCurrency: "ILS"
   ticketsNumber: "60"
-  buyButtonLink: "https://bit.ly/cpp2019contact"
-  buyButtonText: "Register"
+  buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
+  buyButtonText: "Buy Now"
   ticketContentList: ["Full day training", "Pre-conference worshop", "Top C++ trainers"]
   validFrom: "2018-11-01"
   validThrough: "2019-05-13"
