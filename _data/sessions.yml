@@ -37,9 +37,9 @@
   description: "<p>In this training we would deal with the following:</p>
   <ul>
     <li>What makes C++ code better or worse: between personal taste and plain bad coding and design</li>
-    <li>How to write better code<li>
+    <li>How to write better code</li>
     <li>When and how to perform refactoring</li>
-    <li>how to perform effective code reviews, what to look for and how</li>
+    <li>How to perform effective code reviews, what to look for and how</li>
   </ul>
   <p>The training would be focused on C++ in general, but would include a look into the features of C++11 to C++17 and the proper usage of those. It will also include some actual practice on real C++ code. Attendees would gain better view on writing maintainable long living C++ code.</p>
   <p>The training would cover both the nitty gritty bits and bytes of the language and the bigger design issues like how to identify that your if-else should become a state-machine, actor model vs. data model and concurrency design.</p>" 
