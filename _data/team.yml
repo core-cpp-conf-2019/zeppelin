@@ -39,13 +39,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/AdiShavit"}
     - {name: "site", link: "http://videocortex.io/"}
--
-  id: 5
-  name: "Ruth"
-  surname: "Boneh"
-  title: "Advisor"
-  thumbnailUrl: RuthBoneh.jpg
-  team: true
 - 
   id: 4
   name: "Bryce"
