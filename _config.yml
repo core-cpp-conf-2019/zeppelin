@@ -170,7 +170,7 @@ ticketsOffers:
   ticketsNumber: "60"
   buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full day training", "Pre-conference worshop", "Top C++ trainers"]
+  ticketContentList: ["Full day training", "Pre-conference workshop", "Top C++ trainers"]
   validFrom: "2018-11-01"
   validThrough: "2019-05-13"
   soldOut: false
