@@ -47,6 +47,16 @@
   speakers: [12]
   language: he
 -
+  id: 015
+  title: "Embedded Systems Programming in C++"
+  description: "<p>This workshop explains how to use Modern C++ to write safe, efficient, and maintainable embedded programs. Step by step, it shows how to leverage C++ language features to write abstractions that represent and manipulate hardware in a bare metal environment. It also explains how to make these abstractions easy to use and hard to misuse.</p>
+<p>Using concrete programming examples, this workshop explains how to use C++ features such as classes, overloading, and user-defined type conversions to hide messy hardware details behind cleaner interfaces. It shows how to use templates and inheritance to capture commonality among devices and promote code reuse without sacrificing performance. It illustrates practical uses for modern features such as constexpr, static_assert, and type_traits to make embedded code safer, faster, smaller, and more maintainable. It demonstrates programming styles and idioms that turn potential run-time errors into compile-time errors, and turn run-time computations into compile-time computations.</p>
+<p>Participants should have experience programming in C++, or experience in C along with a basic knowledge of the C++ constructs such as classes, access control, and constructors.</p>
+<p>This workshop includes programming exercises. The exercises run on a simulator provided by the instructor. For the exercises, students will need a computer with a development environment that can edit, compile, link, and execute command-line applications written in C++14.</p>"
+  subtype: workshop
+  speakers: [13]
+  language: en
+-
   id: 003
   title: "Keynote 1"
   place: "Main Hall"

@@ -34,3 +34,13 @@
    rockstar: true
    ribbon:
      - {title: "Workshop"}
+-
+   id: 13
+   name: "Dan"
+   surname: "Saks"
+   company: "Saks & Associates"
+   bio: "Dan Saks is the president of Saks & Associates, which offers training and consulting in C and C++ and their use in embedded systems. Dan used to write the \"Programming Pointers\" column for embedded.com online. He has also written columns for numerous print publications including The C/C++ Users Journal, The C++ Report, Software Development, and Embedded Systems Design. With Thomas Plum, he wrote C++ Programming Guidelines, which won a 1992 Computer Language Magazine Productivity Award. Dan has taught C and C++ to thousands of programmers around the world. He has presented lectures, workshops, and keynote addresses at conferences such as the Software Development Conference, the Embedded Systems Conference, the ACCU Conference, code::dive, NDC, CppCon, and Meeting Embedded. Dan also served as secretary of the ANSI and ISO C++ Standards committees and as a member of the ANSI C Standards committee. More recently, he contributed to the CERT Secure C Coding Standard and the CERT Secure C++ Coding Standard."
+   thumbnailUrl: DanSaks.jpg
+   rockstar: true
+   ribbon:
+     - {title: "Workshop"}
