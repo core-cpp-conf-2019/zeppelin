@@ -7,7 +7,7 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "JetBrains", description: "JetBrains is a technology-leading software development firm specializing in the creation of intelligent, productivity-enhancing software.", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
-
+-
   group: "Bronze Sponsors"
   elements: 
     - {name: "CME Group", description: "A global markets company empowering participants to efficiently manage risk and capture opportunities in every major asset class.", link: "https://www.cmegroup.com/", imageUrl: "CMELOGO.png"}
