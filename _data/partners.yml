@@ -17,6 +17,7 @@
     - {name: "#include <C++>", description: "#include<C++> is a global, inclusive, and diverse community for developers interested in C++.", link: "https://www.includecpp.org/", imageUrl: "includecpp.svg"}
     - {name: "SwedenCpp", description: "The Swedish C++ User Groups", link: "https://www.swedencpp.se", imageUrl: "SwedenCppOfficial.png"}        
     - {name: "C++ on Sea", description: "C++ on Sea is a new international C++ conference taking place in Folkestone, Kent, UK from 4th-6th February 2019.", link: "https://cpponsea.uk", imageUrl: "cpponsea-logo-text.svg"}
+    - {name: "Shell-Tech", description: "Spacious air-conditioned facility with meeting rooms, offices and co-working areas, offering stable Internet and WiFi infrastructure, and of course good coffee. Come see for yourself, with full guidance and support.", link: "https://shell-tech.co.il/", imageUrl: "shell-tech.png"}
 #- 
 #  group: "General sponsor"
 #  elements: 
