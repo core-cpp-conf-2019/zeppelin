@@ -23,7 +23,7 @@
     - {name: "twitter", link: "https://twitter.com/lefticus"}
     - {name: "youtube", link: "https://www.youtube.com/c/JasonTurner-lefticus"}
   ribbon:
-    - {title: "Workshop"}
+    - {title: "Keynote"}
 -
    id: 12
    name: "Amir"
@@ -41,6 +41,16 @@
    company: "Saks & Associates"
    bio: "Dan Saks is the president of Saks & Associates, which offers training and consulting in C and C++ and their use in embedded systems. Dan used to write the \"Programming Pointers\" column for embedded.com online. He has also written columns for numerous print publications including The C/C++ Users Journal, The C++ Report, Software Development, and Embedded Systems Design. With Thomas Plum, he wrote C++ Programming Guidelines, which won a 1992 Computer Language Magazine Productivity Award. Dan has taught C and C++ to thousands of programmers around the world. He has presented lectures, workshops, and keynote addresses at conferences such as the Software Development Conference, the Embedded Systems Conference, the ACCU Conference, code::dive, NDC, CppCon, and Meeting Embedded. Dan also served as secretary of the ANSI and ISO C++ Standards committees and as a member of the ANSI C Standards committee. More recently, he contributed to the CERT Secure C Coding Standard and the CERT Secure C++ Coding Standard."
    thumbnailUrl: DanSaks.jpg
+   rockstar: true
+   ribbon:
+     - {title: "Workshop"}
+-
+   id: 14
+   name: "Diego"
+   surname: "Rodriguez-Losada"
+   company: "JFrog"
+   bio: "Diego's passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields. Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup.. Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and maintainer, now working at JFrog as senior SW engineer and C/C++ advocate."
+   thumbnailUrl: DiegoRodriguezLosada.jpg
    rockstar: true
    ribbon:
      - {title: "Workshop"}

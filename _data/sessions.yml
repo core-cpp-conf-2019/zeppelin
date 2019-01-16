@@ -57,10 +57,32 @@
   speakers: [13]
   language: en
 -
+  id: 016
+  title: "Workshop: a practical introduction to Conan C and C++ Package Manager"
+  description: "<p>This class is a full hands-on introductory course to how to use Conan, the open source C and C++ package manager. In this course you will learn how to consume existing packages in your applications and how to create packages for your own libraries. Integrations with different build systems, development of packages, versioning, dependencies conflicts, ABI compatibility and binaries management: All these concepts will be approached and learnt in real working exercises, installing, creating, cross-building, uploading and downloading packages.</p>
+<p>Outline:</p>
+<ul>
+  <li>Introduction</li>
+  <li>Using existing packages in your applications</li>
+  <li>Using different build systems: Conan generators and build helpers</li>
+  <li>Searching and displaying information about packages and the dependency graph</li>
+  <li>Creating packages for C++ libraries</li>
+  <li>The binary model: how to create and maintain packages for different OS, compilers, architectures… Using profiles</li>
+  <li>Cross-compiling packages</li>
+  <li>Conan decentralized architecture: uploading and downloading packages to remote servers. Using Artifactory CE server and Bintray</li>
+  <li>Using Conan packages to wrap tools like CMake, compilers or testing frameworks, with build-requires</li>
+</ul>"
+  subtype: workshop
+  speakers: [14]
+  language: en
+-
   id: 003
-  title: "Keynote 1"
+  title: "Keynote: The Best Parts of C++"
   place: "Main Hall"
-  description: "Keynote speakers will be announced soon"
+  description: "The Best Parts of C++"
+  speakers: [11]
+  subtype: keynote
+  language: en
 -
   id: 004
   title: "Keynote 2"
