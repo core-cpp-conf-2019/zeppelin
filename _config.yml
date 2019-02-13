@@ -150,17 +150,17 @@ ticketsOffers:
   validFrom: "2019-11-01"
   validThrough: "2019-05-14"
  -
-  name: "Early-Bird 2-Days Ticket"
-  price: "850"
+  name: "Regular 2-Day Ticket"
+  price: "1050"
   priceCurrency: "ILS"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  #ribbon: "-20%"
   featured: true
   buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
   buyButtonText: "Buy Now"
   ticketContentList: ["Two day conference", "Two parallel tracks", "Friday activities"]
-  validFrom: "2018-11-01"
-  validThrough: "2019-01-31"
+  validFrom: "2019-02-01"
+  validThrough: "2019-05-01"
  -
   name: "Training"
   price: "1350"
