@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call For Speakers"
+title:  "Call for Speakers"
 date:   2018-11-02 08:00:00
 isStaticPost: false
 image: post_0.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Greatful to Receive 68 Submissions!"
+title:  "Grateful to Receive 68 Submissions!"
 date:   2019-01-28 08:00:00
 isStaticPost: false
 image: post_0.jpg
