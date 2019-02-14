@@ -15,11 +15,14 @@
     - {name: "IncrediBuild", description: "IncrediBuild is a suite of grid computing software designed to help accelerate computationally-intensive tasks by distributing them over the network, with notable applications including compiling source code, building software generally, and other software development-related tasks.", link: "https://www.incredibuild.com/", imageUrl: "IncrediBuild.png"}
     - {name: "Cymotive", description: "Automotive Cyber Security On The Move", link: "https://www.cymotive.com/", imageUrl: "logo_cymotive.svg"}
 - 
+  group: "Patrons"
+  elements: 
+    - {name: "Shell-Tech", description: "Spacious air-conditioned facility with meeting rooms, offices and co-working areas, offering stable Internet and WiFi infrastructure, and of course good coffee. Come see for yourself, with full guidance and support.", link: "https://shell-tech.co.il/", imageUrl: "shell-tech.png"}
+    - {name: "Manning Publications", description: "Manning is an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business. The books cover a huge range of topics that the modern developer needs; from languages and frameworks, to best practices for team leaders.", link: "https://www.manning.com/", imageUrl: "manning.svg"}
+    - {name: "Eurovision 2019", description: "The Eurovision Song Contest", link: "https://eurovision.tv/", imageUrl: "Eurovision_Song_Contest_2019_logo.svg"}
+- 
   group: "Community Sponsors"
   elements: 
     - {name: "#include <C++>", description: "#include<C++> is a global, inclusive, and diverse community for developers interested in C++.", link: "https://www.includecpp.org/", imageUrl: "includecpp.svg"}
     - {name: "SwedenCpp", description: "The Swedish C++ User Groups", link: "https://www.swedencpp.se", imageUrl: "SwedenCppOfficial.png"}        
     - {name: "C++ on Sea", description: "C++ on Sea is a new international C++ conference taking place in Folkestone, Kent, UK from 4th-6th February 2019.", link: "https://cpponsea.uk", imageUrl: "cpponsea-logo-text.svg"}
-    - {name: "Shell-Tech", description: "Spacious air-conditioned facility with meeting rooms, offices and co-working areas, offering stable Internet and WiFi infrastructure, and of course good coffee. Come see for yourself, with full guidance and support.", link: "https://shell-tech.co.il/", imageUrl: "shell-tech.png"}
-    - {name: "Manning Publications", description: "Manning is an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business. The books cover a huge range of topics that the modern developer needs; from languages and frameworks, to best practices for team leaders.", link: "https://www.manning.com/", imageUrl: "manning.svg"}
-    - {name: "Eurovision 2019", description: "The Eurovision Song Contest", link: "https://eurovision.tv/", imageUrl: "Eurovision_Song_Contest_2019_logo.svg"}
