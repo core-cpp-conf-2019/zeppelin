@@ -8,6 +8,11 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "JetBrains", description: "JetBrains is a technology-leading software development firm specializing in the creation of intelligent, productivity-enhancing software.", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
+- 
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "Final", description: "Final is a leading algorithmic developing trading algorithms based on mathematical models, statistics and machine learning.", link: "http://www.final.co.il", imageUrl: "final_logo.svg"}
+    - {name: "Algotech", description: "Algotec's Carestream PACS products enable healthcare organizations to store, manage, distribute, review, compare and process medical images as well as clinical and administrative data, and to control these processes through the Web. ", link: "https://www.carestream.com/en/us", imageUrl: "Algotec_Logo.png"}
 -
   group: "Bronze Sponsors"
   elements: 
