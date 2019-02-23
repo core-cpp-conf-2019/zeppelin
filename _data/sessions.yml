@@ -142,64 +142,83 @@
   language: en
 -
   id: 026
-  title: "aa"
-  description: "aa"
+  title: "Virtual Tables OR The Overhead Of Magic"
+  description: "<p>C++ provides a lot of wonderful mechanisms, but at its heart stands the virtual inheritance mechanism and the engine that drives it - the Virtual Table.</p>
+                <p>We will talk about the virtual table - when and how it works, and of course, when it does NOT work. We will review the problems that may arise from using it wrongly. And finally, we will try to provide tools for estimating the performance cost and possible solutions to minimize it.</p>"
   subtype: talk
   speakers: [26]
-  language: en
+  language: he
 -
   id: 027
-  title: "aa"
-  description: "aa"
+  title: "C/C++ Memory Model"
+  description: "<p>Memory Model is probably the single most important change introduced in C++11.</p>
+                <p>In this talk we will discuss what is a memory model, and more importantly, why we should care. Spoiler alert: The answer in one line: it will help us to write faster more correct code for multi threads and even single thread. Along the way, we will delve into exciting side topics such as Data Oriented Design, Cache Oblivious Algorithms, False Sharing and more.</p>"
   subtype: talk
   speakers: [27]
   language: en
 -
   id: 028
-  title: "aa"
-  description: "aa"
+  title: "High Frequency Trading and Ultra Low Latency development techniques"
+  description: "When developing a high frequency environment, every transaction is a race against the clock and against other players in the market. Therefore, your critical flow can never be “fast enough” as long as someone else may be faster. In this lecture I will cover some of the techniques qSpark’s trading infrastructure uses to survive in the HFT jungle, and will discuss in detail one of our main techniques: using dummy operations to warm up the instruction cache for critical operations while avoiding branch mis-predictions."
   subtype: talk
   speakers: [28]
   language: en
 -
   id: 029
-  title: "aa"
-  description: "aa"
+  title: "Building efficient I/O intensive applications with Seastar"
+  description: "<p>Seastar is a C++14/C++17 application framework focused on I/O and multicore. It uses all C++ features we could lay our hands on, and plans to use coroutines and modules as soon as they are available.</p>
+                <p>The talk will cover the theory behind Seastar, explain how it is used in practice, and cover the advanced C++ techniques we used.</p>"
   subtype: talk
   speakers: [29]
   language: en
 -
   id: 031
-  title: "aa"
-  description: "aa"
+  title: "Standard Library Design"
+  description: "The C++ standard library is one of the most widely used components in contemporary software. It is also one of the most opinionated. What makes it so successful? Why is it shaped the way that it is? In this talk, we'll delve into the core principles that underpin the C++ standard library and discover the rationale behind its design."
   subtype: talk
   speakers: [31]
   language: en
 -
   id: 032
-  title: "aa"
-  description: "aa"
+  title: "Compile Time Regular Expressions"
+  description: "<p>I will present a library that utilizes a feature of C++20 to build regular expressions from compile-time strings. This is a novel approach that doesn't have ordinary disadvantages of other regular expression implementations like having to use a linked library or a run-time cost of parsing and interpreting an internal finite machine. </p>
+                <p>You will see implementation details of the library and problems I have run into during its writing. In the last part of the talk, I will compare other implementations of regular expression engines and show compiled code in Compiler Explorer.</p>"
   subtype: talk
   speakers: [32]
   language: en
 -
   id: 033
-  title: "aa"
-  description: "aa"
+  title: "C++: λ Demystified"
+  description: "<p>C++11 lambdas brought us lambdas. They open a lot of new possibilities. Frequently asked questions are:</p>
+                <ul>
+                  <li>How are they implemented?</li>
+                  <li>How do they work?</li>
+                  <li>How can it affect my daily programming?</li>
+                  <li>Do they generate a lot of code?</li>
+                  <li>What can I do with them?</li>
+                  <li>Where can I use them?</li>
+                </ul>
+                <p>In this talk I will answer these questions. With the support of C++ Insights (<a href='https://cppinsights.io'>https://cppinsights.io</a>) we will peak behind the scenes to answer questions about how they are implemented. We will also see how the compiler generated code changes, if we change the lambda itself. This is often interesting for development in constrained applications like the embedded domain.</p>
+                <p>Next I will show you application areas of lambdas to illustrate where they can be helpful. For example, how they can help you to write less and with that more unique code.</p>
+                <p>After the talk, you will have a solid understanding of lambdas in C++. Together with some ideas when and where to use them.</p>"
   subtype: talk
   speakers: [33]
   language: en
 -
   id: 034
-  title: "aa"
-  description: "aa"
+  title: "Initialisation in modern C++"
+  description: "<p>Initialisation semantics is widely regarded as one of the most difficult aspects of the C++ language. We have many different kinds of initialisation and many different syntaxes for it, and they interact in complex and often surprising ways. C++11 introduced the concept of 'uniform initialisation'. But instead of unifying, this feature introduced even more complex rules, which were subsequently amended in C++14, C++17, and will be changed again for C++20.</p>
+                <p>In this talk, I'll first summarise the history of initialisation in C++. I'll then give a systematic overview over the current initialisation rules and common pitfalls and surprises. There will be some practical coding guidelines to help using those rules effectively. Finally, we will discuss recent proposals towards making initialisation semantics in C++20 simpler and more user-friendly.</p>"
   subtype: talk
   speakers: [34]
   language: en
 -
   id: 035
-  title: "aa"
-  description: "aa"
+  title: "C++ ecosystem: For better, for worse"
+  description: "<p>This is not really a practical talk with which you could learn a new language feature or two, but it is more of a high-level overview of the C++ development ecosystem. Still, it should be useful for C++ developers of any level or specialization. Those who are just getting started with the language should take away an understanding of the whole ecosystem and some direction to help find their own path, while C++ committee members and language influencers will gain deeper insight into the needs of the C++ community.</p>
+                <p>First, I plan to overview the current state of C++ development, using information gathered from several independent sources. These include surveys conducted by JetBrains through both internal and external channels, one of which attracted more than 4,000 C++ developer respondents; a survey run by the C++ Foundation; and a few other third-party research studies.</p>
+                <p>Next, we’ll explore which language features, tools, and techniques are used across different areas of development, to help us identify the key evolution paths in the ecosystem. In addition, I’ll briefly overview some typical areas of application of C++ to identify the most important needs and requests of C++ developers.</p>
+                <p>Last, we’ll discuss how the current language evolution addresses these needs. I will also focus on how the tooling can collaborate with the language to help drive the adoption of new features.</p>"
   subtype: talk
   speakers: [35]
   language: en
