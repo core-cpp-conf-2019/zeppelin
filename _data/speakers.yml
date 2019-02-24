@@ -124,6 +124,7 @@
    surname: "Zaban"
    bio: "Currently working as a Security Research. My passion is reverse engineering with a particular interest in C++ code. In my spare time, when I’m not delving into low-level research, I design and sew my own clothes and love to play the clarinet."
    rockstar: false
+   thumbnailUrl: GalZaban.jpg
    social:
      - {name: "twitter", link: "https://twitter.com/@0xgalz"}
 -
