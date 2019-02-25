@@ -126,7 +126,7 @@
 -
   id: 024
   title: "Clang Concepts"
-  description: "I will talk about concepts and the story of how I got around to implementing them in the Clang compiler. I will discuss the experience of getting into compiler development and open source projects. I will also give a brief intro/demo of the feature. "
+  description: "Concepts are one of the biggest new features coming in C++20, set to revolutionize the way we write generic code. A year ago I volunteered to implement Concepts in the Clang Compiler, and am now nearing completion of the feature. I will tell the story of how I got around to doing this, while demonstrating what it is like to take on such a daunting codebase as a compiler for the first time, and some lessons learned. A brief introduction to the feature itself will also be provided."
   subtype: talk
   speakers: [24]
   language: en
@@ -143,8 +143,9 @@
 -
   id: 026
   title: "Virtual Tables OR The Overhead Of Magic"
-  description: "<p>C++ provides a lot of wonderful mechanisms, but at its heart stands the virtual inheritance mechanism and the engine that drives it - the Virtual Table.</p>
-                <p>We will talk about the virtual table - when and how it works, and of course, when it does NOT work. We will review the problems that may arise from using it wrongly. And finally, we will try to provide tools for estimating the performance cost and possible solutions to minimize it.</p>"
+  description: "<p>C++ provides a lot of wonderful tools, but at its heart stands the inheritance mechanism and the engine that drives it - the Virtual Table.</p>
+                <p>We will talk about the virtual table - when and how it works, and of course, when it does NOT work. We will review the problems that may arise from using it wrongly.</p>
+                <p>And finally, we will try to provide tools for estimating the performance cost and possible solutions to minimize it.</p>"
   subtype: talk
   speakers: [26]
   language: he

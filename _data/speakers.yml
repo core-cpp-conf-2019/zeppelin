@@ -132,7 +132,7 @@
    name: "Inbal"
    surname: "Levi"
    company: "SolarEdge"
-   bio: "A C++ developer with B.Sc in physics and big interest in the small details."
+   bio: "A C++ developer with B.Sc in physics and a passion for the small details."
    thumbnailUrl: InbalLevi.jpg
    social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/inballevi"}
