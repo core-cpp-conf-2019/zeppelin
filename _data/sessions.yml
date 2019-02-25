@@ -79,7 +79,7 @@
   id: 003
   title: "Keynote: The Best Parts of C++"
   place: "Main Hall"
-  description: "The Best Parts of C++"
+  description: "C++ is a big language, and it gets bigger every year. C++20 brings some of the biggest changes yet! Is it *too* big? Do we just continue to make the language harder to learn? Or, perhaps, do these language additions actually make the language better and easier to use?"
   speakers: [11]
   subtype: keynote
   language: en
@@ -148,7 +148,7 @@
                 <p>And finally, we will try to provide tools for estimating the performance cost and possible solutions to minimize it.</p>"
   subtype: talk
   speakers: [26]
-  language: he
+  language: en
 -
   id: 027
   title: "C/C++ Memory Model"
