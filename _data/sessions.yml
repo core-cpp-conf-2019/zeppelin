@@ -242,3 +242,20 @@
   subtype: talk
   speakers: [13]
   language: en
+-
+  id: 099
+  title: "Welcome to Core C++ 2019!"
+  subtype: keynote
+  service: true
+-
+  id: 101
+  title: "Break"
+  service: true
+-
+  id: 102
+  title: "Lunch"
+  service: true
+-
+  id: 103
+  title: "Lightning Talks"
+  service: true
