@@ -87,7 +87,7 @@
   id: 004
   title: "Keynote 2"
   place: "Main Hall"
-  description: "Keynote speakers will be announced soon"
+  description: "Stay tuned for the second keynote speaker announcement!"
 -
   id: 005
   title: "Technical Sessions"
@@ -96,6 +96,7 @@
   id: 006
   title: "More activities"
   description: "In construction"
+  service: true
 -
   id: 021
   title: "C++ Programming for the Heap-Deprived: Solving common problems without dynamic memory allocation"
@@ -258,4 +259,12 @@
 -
   id: 103
   title: "Lightning Talks"
+  service: true
+-
+  id: 104
+  title: "Updates"
+  service: true
+-
+  id: 105
+  title: "Closing Remarks"
   service: true

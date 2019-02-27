@@ -65,18 +65,48 @@
   date: "2019-05-16"
   dateReadable: "May 16"
   tracks: 
-    - {title: "English Track", color: "#90be4e"}
-    - {title: "Hebrew/English Track", color: "#03a9f4"}
+    - {title: "Track 1", color: "#90be4e"}
+    - {title: "Track 2", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "09:00",
-    	endTime: "16:30",
-    	sessionIds: [005]
+    	endTime: "09:15",
+    	sessionIds: [104]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "18:00",
-    	sessionIds: [004]
+    	startTime: "09:15",
+    	endTime: "10:15",
+    	sessionIds: [024,035]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:30",
+    	sessionIds: [027,028]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:45",
+    	sessionIds: [025,036]
+    }
+    - {
+    	startTime: "12:45",
+    	endTime: "14:15",
+    	sessionIds: [102]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "15:15",
+    	sessionIds: [034,029]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "17:15",
+    	sessionIds: [04]
+    }
+    - {
+    	startTime: "17:15",
+    	endTime: "17:35",
+    	sessionIds: [105]
     }
 - 
   date: "2019-05-17"
