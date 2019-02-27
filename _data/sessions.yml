@@ -79,7 +79,7 @@
   id: 003
   title: "Keynote: The Best Parts of C++"
   place: "Main Hall"
-  description: "C++ is a big language, and it gets bigger every year. C++20 brings some of the biggest changes yet! Is it *too* big? Do we just continue to make the language harder to learn? Or, perhaps, do these language additions actually make the language better and easier to use?"
+  description: "C++ is a big language, and it gets bigger every year. Is C++ it *too* big? Do we just continue to make the language harder to learn? Or, perhaps, do these language additions actually make the language better and easier to use? We will take a pragmatic look at the changes brought to C++ over the years and what impact they have had on how we write code."
   speakers: [11]
   subtype: keynote
   language: en
