@@ -22,6 +22,15 @@
     - {name: "Cymotive", description: "Automotive Cyber Security On The Move", link: "https://www.cymotive.com/", imageUrl: "logo_cymotive.svg"}
     - {name: "BrightSource ", description: "BrightSource Energy, Inc. designs, develops, and deploys solar thermal technology to produce high-value electricity and steam for power, petroleum, and industrial-process markets worldwide.", link: "http://www.brightsourceenergy.com/", imageUrl: "BrightSourceLogo.svg"}
 - 
+  group: "Expo Booths"
+  elements: 
+    - {name: "JFrog", description: "JFrog offers an end-to-end solution covering the full lifecycle of your Conan C/C++ packages to manage development, artifact flow control and distribution.", link: "https://conan.io/", imageUrl: "jfrog_conan_logo.png", imageUrl: "jfrog_conan_logo.2.png"}
+    - {name: "Check Point", description: "Check Point Software Technologies Ltd. is the world’s leading cyber security provider.", link: "https://www.checkpoint.com/", imageUrl: "Check_Point_Logo_square.svg"}
+    - {name: "JetBrains", description: "JetBrains is a technology-leading software development firm specializing in the creation of intelligent, productivity-enhancing software.", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
+    - {name: "Final", description: "Final is a leading algorithmic developing trading algorithms based on mathematical models, statistics and machine learning.", link: "http://www.final.co.il", imageUrl: "final_logo.svg"}
+    - {name: "Algotech", description: "Algotec's Carestream PACS products enable healthcare organizations to store, manage, distribute, review, compare and process medical images as well as clinical and administrative data, and to control these processes through the Web. ", link: "https://www.carestream.com/en/us", imageUrl: "Algotec_Logo.png"}
+    - {name: "IncrediBuild", description: "IncrediBuild is a suite of grid computing software designed to help accelerate computationally-intensive tasks by distributing them over the network, with notable applications including compiling source code, building software generally, and other software development-related tasks.", link: "https://www.incredibuild.com/", imageUrl: "IncrediBuild.png"}
+- 
   group: "Patrons"
   elements: 
     - {name: "Shell-Tech", description: "Spacious air-conditioned facility with meeting rooms, offices and co-working areas, offering stable Internet and WiFi infrastructure, and of course good coffee. Come see for yourself, with full guidance and support.", link: "https://shell-tech.co.il/", imageUrl: "shell-tech.png"}
