@@ -43,5 +43,6 @@
     - {name: "SwedenCpp", description: "The Swedish C++ User Groups", link: "https://www.swedencpp.se", imageUrl: "SwedenCppOfficial.png"}        
     - {name: "C++ on Sea", description: "C++ on Sea is a new international C++ conference taking place in Folkestone, Kent, UK from 4th-6th February 2019.", link: "https://cpponsea.uk", imageUrl: "cpponsea-logo-text.svg"}
     - {name: "C++ CoreHard", description: "The conference is being organized by the CoreHard.by community that unites not only C++ engineers, but also those who are interested in low-level development in C and Assembler, programming of controllers, Internet of Things, high load server solutions and in any kind of “hardcore” development.", link: "http://conference.corehard.by/", imageUrl: "corehard-alien-logo-transparent2.png"}
+    - {name: "Comiler Explorer", description: "Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window.", link: "https://godbolt.org", imageUrl: "CompilerExplorer.svg"}
 
 
