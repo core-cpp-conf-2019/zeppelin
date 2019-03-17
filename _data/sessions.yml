@@ -120,7 +120,7 @@
   description: "<p>Writing asynchronous code is never easy. The programmer must consider things like race conditions and dead-locks, it's harder to reason about the code and all kinds of pitfalls come up. On the other hand, async operations become more and more common with the raise of multicore computing, with more network communication used and with some of the architectures we develop to (e.g. OSes that supply only async API for I/O operations).</p>
                 <p>Coroutines are the newest (planned) addition to the C++ language to ease the development of such code and make it much simpler, closer to traditional, synchronous code and easier to reason about.</p>
                 <p>In this talk we'll learn what kind of problems coroutines come to solve, what the solution looks like from the user perspective and a glance towards the much wider solution space that coroutines open for us with various usages already exist.</p>
-                <p>This is an 'into to coroutines' kind of presentation, definitely not delving into the 'dirty details' of how things are implemented in the low level.</p>"
+                <p>This is an 'intro to coroutines' kind of presentation, definitely not delving into the 'dirty details' of how things are implemented in the low level.</p>"
   subtype: talk
   speakers: [23]
   language: en
