@@ -9,6 +9,7 @@
   elements: 
     - {name: "JetBrains", description: "JetBrains is a technology-leading software development firm specializing in the creation of intelligent, productivity-enhancing software.", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
     - {name: "Autodesk", description: "Autodesk is a world leader in 2D and 3D design, providing engineering and entertainment software solutions for the manufacturing, construction, media and entertainment markets.", link: "http://autodesktlv.com", imageUrl: "autodesk_logo.svg"}
+    - {name: "Eyeway", description: "ALL IS ILLUMINATED", link: "http://www.eyeway-vision.com/", imageUrl: "LOGOEYEWAY.svg"}
 - 
   group: "Silver Sponsors"
   elements: 
