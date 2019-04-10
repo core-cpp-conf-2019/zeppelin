@@ -85,9 +85,14 @@
   language: en
 -
   id: 004
-  title: "Keynote 2"
+  title: "Keynote: Modules are Coming"
   place: "Main Hall"
-  description: "Stay tuned for the second keynote speaker announcement!"
+  speakers: [31]
+  subtype: keynote
+  language: en
+  description: "<p>Modules are coming to C++ in the next standard, and they will have an impact unlike any other new feature added to C++ since 1998. Modules are a first-class system for encapsulating and defining interfaces to translation units. They are a modern replacement for C++'s textual inclusion system (e.g. headers).</p>
+                <p>Other features change how you write C++ code. Modules change not only how you write your code; they will change the very structure of your C++ projects, your build system, your IDE, and your tools.</p>
+                <p>In this talk, I'll show you how modules work, how they contrast with the current header inclusion system, how you'll benefit from them, and the transition path for the C++ ecosystem.</p>"
 -
   id: 005
   title: "Technical Sessions"
@@ -175,8 +180,18 @@
   language: en
 -
   id: 031
-  title: "Standard Library Design"
-  description: "The C++ standard library is one of the most widely used components in contemporary software. It is also one of the most opinionated. What makes it so successful? Why is it shaped the way that it is? In this talk, we'll delve into the core principles that underpin the C++ standard library and discover the rationale behind its design."
+  title: "The C++ Execution Model"
+  description: "<p>At the heart of the C++ programming language is the multi-threaded abstract machine and its execution model, the platform-agnostic formal model that generically describes how to run a C++ program. In this talk, you will learn the rules that govern how your C++ code is executed and see how those rules impact the C++ code you write every day.</p>
+                <p>We'll explore the C++ execution and memory model, and discuss fundamental questions such as:</p>
+                <ul>
+                   <li>What are threads in C++ and how do they interact?</li>
+                   <li>What is memory in C++?</li>
+                   <li>In what order are things in my C++ program executed?</li>
+                   <li>How are C++ expressions and statements executed?</li>
+                   <li>What are the semantics of calling a function in C++?</li>
+                   <li>What does &quot;happens before&quot; mean?</li>
+                 </ul>
+                <p>If you're interested in gaining a deeper understanding of how your C++ code is executed and how concurrency works in C++, you should attend this talk.</p>"
   subtype: talk
   speakers: [31]
   language: en
