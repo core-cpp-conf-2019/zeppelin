@@ -282,3 +282,11 @@
   id: 105
   title: "Closing Remarks"
   service: true
+-
+  id: 200
+  title: "Teaching C++ workshop"
+  description: "<p>The goals of the workshop are to discuss and present insights, teaching materials and other issues related to Teaching C++, and to meet and build a community of C++ Teachers. The workshop is related to the ISOCPP group of C++ Education: SG20.</p>
+                <p>The workshop addresses “C++ Language Teachers” as well as teachers that use or practice C++ in their courses and practitioners who are interested in the domain of Teaching C++.</p>
+                <p>Please note: the workshop is free for Core C++ 2019 participants, but requires registration.</p>
+                <p>More info and registration: <a href='http://www2.mta.ac.il/~amirk/teaching_cpp_workshop_2019/'>www2.mta.ac.il/~amirk/teaching_cpp_workshop_2019/</a>.<p>"
+  language: en
