@@ -283,6 +283,10 @@
   title: "Closing Remarks"
   service: true
 -
+  id: 106
+  title: "Registration and Coffee"
+  service: true
+-
   id: 200
   title: "Teaching C++ workshop"
   description: "<p>The goals of the workshop are to discuss and present insights, teaching materials and other issues related to Teaching C++, and to meet and build a community of C++ Teachers. The workshop is related to the ISOCPP group of C++ Education: SG20.</p>

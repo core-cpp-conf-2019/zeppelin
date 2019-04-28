@@ -3,7 +3,12 @@
   dateReadable: "May 14"
   tracks: 
     - {title: "Full-Day Workshops", color: "#90be4e"}
-  timeslots:
+  timeslots: 
+    - {
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [106]
+    }
     - {
     	startTime: "09:00",
     	endTime: "17:00",
@@ -16,6 +21,11 @@
     - {title: "Track 1", color: "#90be4e"}
     - {title: "Track 2", color: "#03a9f4"}
   timeslots: 
+    - {
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [106]
+    }
     - {
     	startTime: "09:00",
     	endTime: "09:20",
@@ -69,6 +79,11 @@
     - {title: "Track 2", color: "#03a9f4"}
   timeslots: 
     - {
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [106]
+    }
+    - {
     	startTime: "09:00",
     	endTime: "09:15",
     	sessionIds: [104]
@@ -113,7 +128,12 @@
   dateReadable: "May 17"
   tracks: 
     - {title: "Special Avtivities", color: "#90be4e"}
-  timeslots: 
+  timeslots:  
+    - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [106]
+    }
     - {
     	startTime: "09:00",
     	endTime: "13:30",
