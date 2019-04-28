@@ -15,6 +15,7 @@
   elements: 
     - {name: "Final", description: "Final is a leading algorithmic developing trading algorithms based on mathematical models, statistics and machine learning.", link: "http://www.final.co.il", imageUrl: "final_logo.svg"}
     - {name: "Algotech", description: "Algotec's Carestream PACS products enable healthcare organizations to store, manage, distribute, review, compare and process medical images as well as clinical and administrative data, and to control these processes through the Web. ", link: "https://www.carestream.com/en/us", imageUrl: "Algotec_Logo.png"}
+    - {name: "Kistler", description: "Kistler is the global leader in dynamic measurement technology for measuring pressure, force, torque and acceleration", link: "https://www.kistler.com/en/", imageUrl: "kistler.png"}
 -
   group: "Bronze Sponsors"
   elements: 
@@ -51,6 +52,7 @@
     - {name: "CppCon", description: "CppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community", link: "https://cppcon.org/", imageUrl: "cppcon_logo.png"}
     - {name: "C++Now", description: "A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado", link: "http://cppnow.org/", imageUrl: "CppNowLogo.svg"}
     - {name: "CppCast", description: "CppCast is the first podcast for C++ developers by C++ developers", link: "http://cppcast.com/", imageUrl: "CppCast_Banner.png"}
-    - {name: "Cppp", description: "", link: "", imageUrl: "logoCPPP.svg"}
+    - {name: "CPPP", description: "An international c++ conference in the heart of Paris", link: "http://cppp.fr", imageUrl: "logoCPPP.svg"}
+    - {name: "C++ Stories", description: "", link: "https://www.bfilipek.com", imageUrl: "logobflarge.png"}
  
 
