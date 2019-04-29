@@ -160,7 +160,7 @@
    name: "Nimrod"
    surname: "Sapir"
    company: "qSpark"
-   bio: "Nimrod Sapir is the trading infrastructure team manager in qSpark, a leading provider of ultra low-latency trading platforms for high-frequency algorithmic trading. His team is responsible for developing the real-time trading engine of the company, as well as the specialized, low-latency optimized data structures and infrastructures used by the entire company's C++ software stack. Prior to qSpark, Nimrod worked as a storage infrastructure developer in IBM and Dell-EMC."
+   bio: "Nimrod Sapir is the the VP R&D @ qSpark, a leading provider of ultra low-latency trading platforms for high-frequency algorithmic trading. His team is responsible for developing the real-time trading engine of the company, as well as the specialized, low-latency optimized data structures and infrastructures used by the entire company's C++ software stack. Prior to qSpark, Nimrod worked as a storage infrastructure developer in IBM and Dell-EMC."
    thumbnailUrl: NimrodSapir.jpg
    social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/nimrodsapir"}
