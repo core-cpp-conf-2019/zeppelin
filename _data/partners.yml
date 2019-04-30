@@ -54,5 +54,6 @@
     - {name: "CppCast", description: "CppCast is the first podcast for C++ developers by C++ developers", link: "http://cppcast.com/", imageUrl: "CppCast_Banner.png"}
     - {name: "CPPP", description: "An international c++ conference in the heart of Paris", link: "http://cppp.fr", imageUrl: "logoCPPP.svg"}
     - {name: "C++ Stories", description: "", link: "https://www.bfilipek.com", imageUrl: "logobflarge.png"}
+    - {name: "code::dive", description: "code::dive is an annual event gathering IT professionals and programming enthusiasts to share new ideas, discuss current trends, and exchange experiences.", link: "https://codedive.pl/", imageUrl: "codedivelogo.svg"}
  
 
