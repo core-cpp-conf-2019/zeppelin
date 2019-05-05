@@ -272,7 +272,7 @@
   service: true
 -
   id: 103
-  title: "Lightning Talks"
+  title: "Lightning Talks + Meetup"
   service: true
 -
   id: 104
@@ -287,6 +287,10 @@
   title: "Registration and Coffee"
   service: true
 -
+  id: 107
+  title: "Coffee Break"
+  service: true
+-
   id: 200
   title: "Teaching C++ workshop"
   description: "<p>The goals of the workshop are to discuss and present insights, teaching materials and other issues related to Teaching C++, and to meet and build a community of C++ Teachers. The workshop is related to the ISOCPP group of C++ Education: SG20.</p>
@@ -294,3 +298,11 @@
                 <p>Please note: the workshop is free for Core C++ 2019 participants, but requires registration.</p>
                 <p>More info and registration: <a href='http://www2.mta.ac.il/~amirk/teaching_cpp_workshop_2019/'>www2.mta.ac.il/~amirk/teaching_cpp_workshop_2019/</a>.<p>"
   language: en
+-
+  id: 201
+  title: "Teaching C++: Panel"
+  service: true
+-
+  id: 202
+  title: "Teaching + Speakers Meet & Eat [Invitation only]"
+  service: true
