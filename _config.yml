@@ -145,10 +145,12 @@ ticketsOffers:
   priceCurrency: "ILS"
   ticketsNumber: "50"
   buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Byt Now"
   ticketContentList: ["Two parallel tracks", "Keynote", "All technical sessions"]
   validFrom: "2019-11-01"
   validThrough: "2019-05-14"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Regular 2-Day Ticket"
   price: "1050"
@@ -161,6 +163,8 @@ ticketsOffers:
   ticketContentList: ["Two day conference", "Two parallel tracks", "Friday activities"]
   validFrom: "2019-02-01"
   validThrough: "2019-05-01"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Training"
   price: "1350"
@@ -168,7 +172,7 @@ ticketsOffers:
   priceCurrency: "ILS"
   ticketsNumber: "60"
   buyButtonLink: "https://ti.to/hamakor/core-cpp-2019"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Last Seats"
   ticketContentList: ["Full day training", "Pre-conference workshop", "Top C++ trainers"]
   validFrom: "2018-11-01"
   validThrough: "2019-05-13"
