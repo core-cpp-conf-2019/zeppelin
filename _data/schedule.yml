@@ -157,7 +157,7 @@
   date: "2019-05-17"
   dateReadable: "May 17"
   tracks: 
-    - {title: "Special Avtivities", color: "#90be4e"}
+    - {title: "Special Activities", color: "#90be4e"}
   timeslots:  
     - {
     	startTime: "08:30",
