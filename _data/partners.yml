@@ -20,6 +20,7 @@
     - {name: "Algotech", description: "Algotec's Carestream PACS products enable healthcare organizations to store, manage, distribute, review, compare and process medical images as well as clinical and administrative data, and to control these processes through the Web. ", link: "https://www.carestream.com/en/us", imageUrl: "Algotec_Logo.png"}
     - {name: "Kistler", description: "Kistler is the global leader in dynamic measurement technology for measuring pressure, force, torque and acceleration", link: "https://www.kistler.com/en/", imageUrl: "kistler.png"}
     - {name: "INFINIDAT", description: "", link: "https://www.infinidat.com/", imageUrl: "Infinidat-Logo.png"}
+    - {name: "Harman", description: "HARMAN designs and engineers connected products and solutions for automakers, consumers, and enterprises worldwide, including connected car systems, audio and visual products, enterprise automation solutions; and connected services.", link: "https://www.harman.com", imageUrl: "harman_logo.svg"}
 -
   group: "Bronze Sponsors"
   elements: 
