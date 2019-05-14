@@ -42,7 +42,9 @@
                                     <div class="color-line" style="background: {{ day.tracks[colorIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[colorIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        <span class="slot-language">{{session.language | upcase}}</span>
+										{% if session.place != null %}
+                                           <span class="slot-language">{{ session.place }}</span>
+										{% endif %}
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
@@ -63,6 +65,9 @@
                                     <div class="color-line"></div>
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+										{% if session.place != null %}
+                                           <span class="slot-language">{{ session.place }}</span>
+										{% endif %}
                                         {% if session.description != null %}
                                         <p class="service-description">{{ session.description }}</p>
                                         {% endif %}
