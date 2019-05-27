@@ -84,6 +84,7 @@
   speakers: [11]
   subtype: keynote
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Keynotes/Jason_The_Best_Parts_Of_C++.pdf"
 -
   id: 004
   title: "Keynote: Modules are Coming"
@@ -111,6 +112,7 @@
   subtype: talk
   speakers: [21]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Asaf_C++_Programming_for_the_Heap-Deprived.pdf"
 -
   id: 022
   title: "179 range algorithms in less than an hour"
@@ -122,6 +124,7 @@
   subtype: talk
   speakers: [22]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Dvir_179_range_algorithms_in_less_than_an_hour.pdf"
 -
   id: 023
   title: "Coroutines - the future of future (and more)"
@@ -133,6 +136,7 @@
   subtype: talk
   speakers: [23]
   language: en
+  presentation: "https://github.com/YehezkelShB/CoreCpp2019-Coroutines"
 -
   id: 024
   title: "Clang Concepts"
@@ -141,6 +145,7 @@
   subtype: talk
   speakers: [24]
   language: en
+  presentations: "https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf"
 -
   id: 025
   title: "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages"
@@ -152,6 +157,7 @@
   subtype: talk
   speakers: [25]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Gal_Behind_Enemy_Lines_Reverse_Engineering_Cpp_in_Modern_Ages.pdf"
 -
   id: 026
   title: "Virtual Tables OR The Overhead Of Magic"
@@ -162,6 +168,7 @@
   subtype: talk
   speakers: [26]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Inbal_Virtual_Tables_OR_The_Overhead_Of_Magic.pdf"
 -
   id: 027
   title: "C/C++ Memory Model"
@@ -171,6 +178,7 @@
   subtype: talk
   speakers: [27]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Yossi_Memory_Model.pdf"
 -
   id: 028
   title: "High Frequency Trading and Ultra Low Latency development techniques"
@@ -179,6 +187,7 @@
   subtype: talk
   speakers: [28]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Nimrod_High_Frequency_Trading.pdf"
 -
   id: 029
   title: "Building efficient I/O intensive applications with Seastar"
@@ -188,6 +197,7 @@
   subtype: talk
   speakers: [29]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Avi_Building_efficient_IO_intensive_applications_with_Seastar.pdf"
 -
   id: 031
   title: "The C++ Execution Model"
@@ -215,6 +225,7 @@
   subtype: talk
   speakers: [32]
   language: en
+  presentation: "https://compile-time.re/corecpp-2019/#/"
 -
   id: 033
   title: "C++: λ Demystified"
@@ -234,6 +245,7 @@
   subtype: talk
   speakers: [33]
   language: en
+  presentation: "https://www.andreasfertig.info/talks.html"
 -
   id: 034
   title: "Initialisation in modern C++"
@@ -243,6 +255,7 @@
   subtype: talk
   speakers: [34]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Timur_Initialisation_in_modern_C++.pdf"
 -
   id: 035
   title: "C++ ecosystem: For better, for worse"
@@ -253,6 +266,7 @@
   subtype: talk
   speakers: [35]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Anastasia_Cpp_ecosystem.pdf"
 -
   id: 036
   title: "The Dawn Of A New Error"
@@ -294,6 +308,7 @@
   title: "Lightning Talks + Meetup"
   place: "Weston::Auditorium"
   service: true
+  presentation: "https://corecppil.github.io/CoreCpp2019/"
 -
   id: 104
   title: "Updates"
