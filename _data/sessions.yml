@@ -95,6 +95,7 @@
   description: "<p>Modules are coming to C++ in the next standard, and they will have an impact unlike any other new feature added to C++ since 1998. Modules are a first-class system for encapsulating and defining interfaces to translation units. They are a modern replacement for C++'s textual inclusion system (e.g. headers).</p>
                 <p>Other features change how you write C++ code. Modules change not only how you write your code; they will change the very structure of your C++ projects, your build system, your IDE, and your tools.</p>
                 <p>In this talk, I'll show you how modules work, how they contrast with the current header inclusion system, how you'll benefit from them, and the transition path for the C++ ecosystem.</p>"
+  presentation: "https://corecppil.github.io/CoreCpp2019/Keynotes/Bryce_Modules_Are_Coming.pdf"                
 -
   id: 005
   title: "Technical Sessions"
@@ -145,7 +146,7 @@
   subtype: talk
   speakers: [24]
   language: en
-  presentations: "https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf"
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf"
 -
   id: 025
   title: "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages"
@@ -216,6 +217,7 @@
   subtype: talk
   speakers: [31]
   language: en
+  presentation: "https://corecppil.github.io/CoreCpp2019/Presentations/Bryce_C++_Execution_Model.pdf"
 -
   id: 032
   title: "Compile Time Regular Expressions"
